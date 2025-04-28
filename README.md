@@ -1,4 +1,4 @@
-## 🌀 English Version
+## 🌀 EN
 
 - 👋 Hi, I’m @Ai-LucAng  
 - 👀 I’m interested in time-traveling rubber ducks and interdimensional spaghetti recipes.  
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌪️ Versión en Español
+## 🌪️ ES
 
 - 👋 Hola, soy @Ai-LucAng  
 - 👀 Estoy interesado en patitos de hule que viajan en el tiempo y recetas de espaguetis interdimensionales.  
